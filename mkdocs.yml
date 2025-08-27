@@ -1,0 +1,7 @@
+site_name: Word Counter SaaS
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Requisitos: requisitos.md
+  - Arquitetura: arquitetura.md
