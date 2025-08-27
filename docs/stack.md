@@ -11,6 +11,7 @@
 - **Zod** (validação)
 - **TanStack Query (React Query)** (requisições e cache)
 - **MkDocs** (documentação)
+- **Shadcn**  npx shadcn@2.10.0 add x
 
 ## Justificativa
 
